@@ -18,7 +18,7 @@
 
 <img align="center" style="margin-right:5px;margin-top: 5px" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<div style="display:flex; flex-wrap;"><br/>
+<div style="display:flex; flex-wrap;">
 <img align="center" style="margin-right:5px;margin-top: 5px" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 
