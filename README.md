@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Gabrielle Mitie 🍄
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellemitie&layout=compact)
+
 
 
 ## Tecnologias que eu já tive contato
