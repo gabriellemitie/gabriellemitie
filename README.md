@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Gabrielle Mitie 🍄
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabrielletenguan)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellemitie&layout=compact)
 
 
