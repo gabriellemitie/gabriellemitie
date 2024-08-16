@@ -27,15 +27,9 @@
 
 <img align="center" style="margin-right:5px;margin-top: 5px" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img align="center" style="margin-right:5px;margin-top: 5px" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </div>
 
-<img align="center" style="margin-right:5px; margin-top: 5px" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img align="center" style="margin-right:5px;margin-top: 5px" alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-
-<img align="center" style="margin-right:5px;margin-top: 5px" alt="powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </div><br/>
 
 
