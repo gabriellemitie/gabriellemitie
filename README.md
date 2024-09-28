@@ -5,8 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellemitie&layout=compact)
 
 
-## Tecnologias mais usadas  
-## Most used
+## Tecnologias mais usadas || Most used
 
 
 <div style="display: flex; flex-wrap: wrap;">
