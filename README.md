@@ -26,9 +26,7 @@ My name is Gabrielle Mitie and I'm currently studying machine learning and data 
 
 
 
-![Snake animation](https://github.com/gabriellemitie/gabriellemitie/blob/output/github-contribution-grid-snake.svg)
-
-
+!
 
 </div><br/>
 
@@ -52,6 +50,8 @@ Estudante de Ciência da Computação no Centro Universitário da FEI.
 Computer Science student at Centro Universitário da FEI.
 
 
+
+[Snake animation](https://github.com/gabriellemitie/blob/output/github-contribution-grid-snake.svg)
 
 
 
