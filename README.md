@@ -1,8 +1,16 @@
+### Welcome to my GitHub profile!  
+My name is Gabrielle Mitie and I'm currently studying machine learning and data treatment and analysis!  
+
+
+
+
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellemitie&layout=compact)
 
 
-## Tecnologias mais usadas || Most used
+##  
 
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -15,6 +23,12 @@
 
 
 </div>
+
+
+
+![Snake animation](https://github.com/gabriellemitie/gabriellemitie/blob/output/github-contribution-grid-snake.svg)
+
+
 
 </div><br/>
 
