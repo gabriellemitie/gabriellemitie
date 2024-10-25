@@ -14,9 +14,27 @@ My name is Gabrielle Mitie and I'm currently studying machine learning and data 
 
 
 <div style="display: flex; flex-wrap: wrap;">
-<img align="center" style="margin-right:5px;margin-top: 5px" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img align="center" style="margin-right:5px;margin-top: 5px" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python logo" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" alt="podman logo" width="50"/> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="spark logo" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="conda logo" width="50"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt ="opencv logo" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"  alt ="scikitlearn logo" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi logo" width="50"/>
+          
+          
+          
+          
+          
+
+          
 
 
 
@@ -32,13 +50,10 @@ My name is Gabrielle Mitie and I'm currently studying machine learning and data 
 ## Social 
 
   
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/gabrielletenguan)
-
-<a href="mailto:mitiegabi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/gabrielletenguan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" width="50"/>
 </a>
 
-  
 
 
 
