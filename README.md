@@ -1,5 +1,5 @@
 ### Welcome to my GitHub profile!  
-My name is Gabrielle Mitie and I'm currently studying machine learning and data treatment and analysis!  
+My name is Gabrielle Mitie - Computer Science student - and I'm currently studying machine learning and data treatment and analysis!  
 
 
 
@@ -10,7 +10,7 @@ My name is Gabrielle Mitie and I'm currently studying machine learning and data 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellemitie&layout=compact)
 
 
-##  
+## Technologies I have experience with
 
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -53,16 +53,6 @@ My name is Gabrielle Mitie and I'm currently studying machine learning and data 
 <a href="https://www.linkedin.com/in/gabrielletenguan" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" width="50"/>
 </a>
-
-
-
-
-
-
-Estudante de Ciência da Computação no Centro Universitário da FEI.  
-Computer Science student at Centro Universitário da FEI.
-
-
 
 
 
